@@ -1,0 +1,779 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE record SYSTEM "Note.dtd">
+
+
+<record>
+  <student>
+    <name>
+      <first_name>Annice</first_name>
+      <middle_name>Warriner</middle_name>
+      <last_name>Trytsman</last_name>
+    </name>
+    <reg_no>RA8802892230818</reg_no>
+    <gender>Female</gender>
+    <contact>
+      <mobile>8596838826</mobile>
+      <landline>(5113)-516325</landline>
+    </contact>
+    <email>atrytsman0@miitbeian.gov.cn</email>
+    <address>
+      <permanent>9235 Dawn Place</permanent>
+      <temporary>08409 Eastlawn Hill</temporary>
+    </address>
+    <campus>SRM University(VDP Campus)</campus>
+    <mark>
+      <math>45</math>
+      <dsa>83</dsa>
+      <ct>46</ct>
+      <networks>42</networks>
+    </mark>
+    <sum>216</sum>
+    <hobbies>Swimming</hobbies>
+  </student>
+  <student>
+    <name>
+      <first_name>Marie</first_name>
+      <middle_name>Jagger</middle_name>
+      <last_name>Seabourne</last_name>
+    </name>
+    <reg_no>RA1856873581539</reg_no>
+    <gender>Male</gender>
+    <contact>
+      <mobile>9315408560</mobile>
+      <landline>(1088)-884432</landline>
+    </contact>
+    <email/>
+    <address>
+      <permanent>49793 Northport Street</permanent>
+      <temporary>4966 Judy Place</temporary>
+    </address>
+    <campus>SRM University(VDP Campus)</campus>
+    <mark>
+      <math>80</math>
+      <dsa>33</dsa>
+      <ct>89</ct>
+      <networks>70</networks>
+    </mark>
+    <sum>272</sum>
+    <hobbies>Cooking</hobbies>
+  </student>
+  <student>
+    <name>
+      <first_name>Fabio</first_name>
+      <middle_name>Choke</middle_name>
+      <last_name>Gascone</last_name>
+    </name>
+    <reg_no>RA0155698450387</reg_no>
+    <gender>Female</gender>
+    <contact>
+      <mobile>1302127578</mobile>
+      <landline>(9375)-666689</landline>
+    </contact>
+    <email>fgascone2@webeden.co.uk</email>
+    <address>
+      <permanent>3904 Acker Circle</permanent>
+      <temporary>95 Center Lane</temporary>
+    </address>
+    <campus>SRM University(RMP Campus)</campus>
+    <mark>
+      <math>30</math>
+      <dsa>93</dsa>
+      <ct>71</ct>
+      <networks>65</networks>
+    </mark>
+    <sum>259</sum>
+    <hobbies>Sleeping</hobbies>
+  </student>
+  <student>
+    <name>
+      <first_name>Gallagher</first_name>
+      <middle_name>Francois</middle_name>
+      <last_name>Phelipeaux</last_name>
+    </name>
+    <reg_no>RA9095310443052</reg_no>
+    <gender>Male</gender>
+    <contact>
+      <mobile>7997604138</mobile>
+      <landline>(5874)-625227</landline>
+    </contact>
+    <email>gphelipeaux3@unc.edu</email>
+    <address>
+      <permanent>5941 Kensington Point</permanent>
+      <temporary>10 Bartillon Circle</temporary>
+    </address>
+    <campus>SRM University(KTR Campus)</campus>
+    <mark>
+      <math>45</math>
+      <dsa>88</dsa>
+      <ct>11</ct>
+      <networks>21</networks>
+    </mark>
+    <sum>165</sum>
+    <hobbies>Eating</hobbies>
+  </student>
+  <student>
+    <name>
+      <first_name>Ynez</first_name>
+      <middle_name>Berntsson</middle_name>
+      <last_name>Rimbault</last_name>
+    </name>
+    <reg_no>RA4219395451258</reg_no>
+    <gender>Female</gender>
+    <contact>
+      <mobile>3743237347</mobile>
+      <landline>(8057)-952764</landline>
+    </contact>
+    <email>yrimbault4@biglobe.ne.jp</email>
+    <address>
+      <permanent>20 Spenser Point</permanent>
+      <temporary>6358 Carberry Parkway</temporary>
+    </address>
+    <campus>SRM University(VDP Campus)</campus>
+    <mark>
+      <math>19</math>
+      <dsa>32</dsa>
+      <ct>50</ct>
+      <networks>36</networks>
+    </mark>
+    <sum>137</sum>
+    <hobbies>Reading</hobbies>
+  </student>
+  <student>
+    <name>
+      <first_name>Aggie</first_name>
+      <middle_name>Huntar</middle_name>
+      <last_name>Swine</last_name>
+    </name>
+    <reg_no>RA5355058275181</reg_no>
+    <gender>Male</gender>
+    <contact>
+      <mobile>0434741842</mobile>
+      <landline>(7362)-837055</landline>
+    </contact>
+    <email>aswine5@hibu.com</email>
+    <address>
+      <permanent>5 Packers Parkway</permanent>
+      <temporary>7 Rigney Point</temporary>
+    </address>
+    <campus>SRM University(VDP Campus)</campus>
+    <mark>
+      <math>50</math>
+      <dsa>56</dsa>
+      <ct>35</ct>
+      <networks>77</networks>
+    </mark>
+    <sum>218</sum>
+    <hobbies>Swimming</hobbies>
+  </student>
+  <student>
+    <name>
+      <first_name>Rennie</first_name>
+      <middle_name>Postin</middle_name>
+      <last_name>Boriston</last_name>
+    </name>
+    <reg_no>RA8569292912260</reg_no>
+    <gender>Male</gender>
+    <contact>
+      <mobile>2732374226</mobile>
+      <landline>(0440)-048651</landline>
+    </contact>
+    <email>rboriston6@apache.org</email>
+    <address>
+      <permanent>152 Independence Court</permanent>
+      <temporary>1649 Graedel Center</temporary>
+    </address>
+    <campus>SRM University(RMP Campus)</campus>
+    <mark>
+      <math>77</math>
+      <dsa>60</dsa>
+      <ct>59</ct>
+      <networks>97</networks>
+    </mark>
+    <sum>293</sum>
+    <hobbies>Reading</hobbies>
+  </student>
+  <student>
+    <name>
+      <first_name>Filmore</first_name>
+      <middle_name>Sermin</middle_name>
+      <last_name>Aim</last_name>
+    </name>
+    <reg_no>RA1882151772078</reg_no>
+    <gender>Female</gender>
+    <contact>
+      <mobile>2617330936</mobile>
+      <landline>(8012)-169966</landline>
+    </contact>
+    <email>faim7@mit.edu</email>
+    <address>
+      <permanent>59 Loomis Way</permanent>
+      <temporary>9 American Circle</temporary>
+    </address>
+    <campus>SRM University(VDP Campus)</campus>
+    <mark>
+      <math>16</math>
+      <dsa>19</dsa>
+      <ct>69</ct>
+      <networks>67</networks>
+    </mark>
+    <sum>171</sum>
+    <hobbies>Sleeping</hobbies>
+  </student>
+  <student>
+    <name>
+      <first_name>Jocko</first_name>
+      <middle_name>Holdall</middle_name>
+      <last_name>Bernadon</last_name>
+    </name>
+    <reg_no>RA7688703408825</reg_no>
+    <gender>Female</gender>
+    <contact>
+      <mobile>4869338641</mobile>
+      <landline>(5822)-976137</landline>
+    </contact>
+    <email>jbernadon8@arizona.edu</email>
+    <address>
+      <permanent>2114 Manufacturers Road</permanent>
+      <temporary>9 Hoard Crossing</temporary>
+    </address>
+    <campus>SRM University(KTR Campus)</campus>
+    <mark>
+      <math>36</math>
+      <dsa>28</dsa>
+      <ct>64</ct>
+      <networks>12</networks>
+    </mark>
+    <sum>140</sum>
+    <hobbies>Travelling</hobbies>
+  </student>
+  <student>
+    <name>
+      <first_name>Wallas</first_name>
+      <middle_name>Maunsell</middle_name>
+      <last_name>Ughelli</last_name>
+    </name>
+    <reg_no>RA0086119306091</reg_no>
+    <gender>Female</gender>
+    <contact>
+      <mobile>2549642508</mobile>
+      <landline>(3438)-696455</landline>
+    </contact>
+    <email>wughelli9@unesco.org</email>
+    <address>
+      <permanent>49 Algoma Hill</permanent>
+      <temporary>52 Clemons Place</temporary>
+    </address>
+    <campus>SRM University(RMP Campus)</campus>
+    <mark>
+      <math>97</math>
+      <dsa>26</dsa>
+      <ct>78</ct>
+      <networks>27</networks>
+    </mark>
+    <sum>228</sum>
+    <hobbies>Cooking</hobbies>
+  </student>
+  <student>
+    <name>
+      <first_name>Julissa</first_name>
+      <middle_name>Quantrill</middle_name>
+      <last_name>Bonnesen</last_name>
+    </name>
+    <reg_no>RA2011556278111</reg_no>
+    <gender>Female</gender>
+    <contact>
+      <mobile>6956826267</mobile>
+      <landline>(2767)-274210</landline>
+    </contact>
+    <email>jbonnesena@ted.com</email>
+    <address>
+      <permanent>41654 Waubesa Parkway</permanent>
+      <temporary>2410 High Crossing Park</temporary>
+    </address>
+    <campus>SRM University(KTR Campus)</campus>
+    <mark>
+      <math>46</math>
+      <dsa>18</dsa>
+      <ct>24</ct>
+      <networks>99</networks>
+    </mark>
+    <sum>187</sum>
+    <hobbies>Reading</hobbies>
+  </student>
+  <student>
+    <name>
+      <first_name>Kent</first_name>
+      <middle_name>Gricks</middle_name>
+      <last_name>Emmanueli</last_name>
+    </name>
+    <reg_no>RA8062782232406</reg_no>
+    <gender>Male</gender>
+    <contact>
+      <mobile>8569289745</mobile>
+      <landline>(4804)-987053</landline>
+    </contact>
+    <email>kemmanuelib@fema.gov</email>
+    <address>
+      <permanent>07072 Goodland Alley</permanent>
+      <temporary>8389 Derek Lane</temporary>
+    </address>
+    <campus>SRM University(VDP Campus)</campus>
+    <mark>
+      <math>52</math>
+      <dsa>89</dsa>
+      <ct>90</ct>
+      <networks>55</networks>
+    </mark>
+    <sum>286</sum>
+    <hobbies>Sleeping</hobbies>
+  </student>
+  <student>
+    <name>
+      <first_name>Banky</first_name>
+      <middle_name>Gladhill</middle_name>
+      <last_name>Axby</last_name>
+    </name>
+    <reg_no>RA4826668491950</reg_no>
+    <gender>Male</gender>
+    <contact>
+      <mobile>6133553886</mobile>
+      <landline>(9624)-749202</landline>
+    </contact>
+    <email>baxbyc@loc.gov</email>
+    <address>
+      <permanent>2 Norway Maple Crossing</permanent>
+      <temporary>4088 Esker Crossing</temporary>
+    </address>
+    <campus>Anna University(CEG Campus)</campus>
+    <mark>
+      <math>83</math>
+      <dsa>69</dsa>
+      <ct>52</ct>
+      <networks>60</networks>
+    </mark>
+    <sum>264</sum>
+    <hobbies>Eating</hobbies>
+  </student>
+  <student>
+    <name>
+      <first_name>Tarrance</first_name>
+      <middle_name>Pietron</middle_name>
+      <last_name>Shuttleworth</last_name>
+    </name>
+    <reg_no>RA9782402131849</reg_no>
+    <gender>Male</gender>
+    <contact>
+      <mobile>7839632183</mobile>
+      <landline>(6996)-861777</landline>
+    </contact>
+    <email/>
+    <address>
+      <permanent>5 Florence Road</permanent>
+      <temporary>02 Welch Park</temporary>
+    </address>
+    <campus>SRM University(RMP Campus)</campus>
+    <mark>
+      <math>67</math>
+      <dsa>58</dsa>
+      <ct>13</ct>
+      <networks>85</networks>
+    </mark>
+    <sum>223</sum>
+    <hobbies>Eating</hobbies>
+  </student>
+  <student>
+    <name>
+      <first_name>Farah</first_name>
+      <middle_name>Shorey</middle_name>
+      <last_name>Bevis</last_name>
+    </name>
+    <reg_no>RA1411397879900</reg_no>
+    <gender>Female</gender>
+    <contact>
+      <mobile>5535387951</mobile>
+      <landline>(0781)-230394</landline>
+    </contact>
+    <email>fbevise@nytimes.com</email>
+    <address>
+      <permanent>00 Hovde Circle</permanent>
+      <temporary>7 Spohn Street</temporary>
+    </address>
+    <campus>Anna University(CEG Campus)</campus>
+    <mark>
+      <math>94</math>
+      <dsa>76</dsa>
+      <ct>29</ct>
+      <networks>63</networks>
+    </mark>
+    <sum>262</sum>
+    <hobbies>Travelling</hobbies>
+  </student>
+  <student>
+    <name>
+      <first_name>Sallee</first_name>
+      <middle_name>Vakhonin</middle_name>
+      <last_name>Smoth</last_name>
+    </name>
+    <reg_no>RA5471772309702</reg_no>
+    <gender>Female</gender>
+    <contact>
+      <mobile>3506626880</mobile>
+      <landline>(1447)-207598</landline>
+    </contact>
+    <email>ssmothf@pbs.org</email>
+    <address>
+      <permanent>3750 Summit Street</permanent>
+      <temporary>332 Lotheville Junction</temporary>
+    </address>
+    <campus>Anna University(CEG Campus)</campus>
+    <mark>
+      <math>45</math>
+      <dsa>19</dsa>
+      <ct>65</ct>
+      <networks>71</networks>
+    </mark>
+    <sum>200</sum>
+    <hobbies>Travelling</hobbies>
+  </student>
+  <student>
+    <name>
+      <first_name>Haily</first_name>
+      <middle_name>Littrick</middle_name>
+      <last_name>Spencelayh</last_name>
+    </name>
+    <reg_no>RA0660232990771</reg_no>
+    <gender>Female</gender>
+    <contact>
+      <mobile>2683901538</mobile>
+      <landline>(0822)-821128</landline>
+    </contact>
+    <email>hspencelayhg@ask.com</email>
+    <address>
+      <permanent>05056 Buell Park</permanent>
+      <temporary>4657 Bobwhite Park</temporary>
+    </address>
+    <campus>SRM University(RMP Campus)</campus>
+    <mark>
+      <math>39</math>
+      <dsa>45</dsa>
+      <ct>31</ct>
+      <networks>43</networks>
+    </mark>
+    <sum>158</sum>
+    <hobbies>Swimming</hobbies>
+  </student>
+  <student>
+    <name>
+      <first_name>Cobby</first_name>
+      <middle_name>Dewdeny</middle_name>
+      <last_name>Budnk</last_name>
+    </name>
+    <reg_no>RA3631776904176</reg_no>
+    <gender>Female</gender>
+    <contact>
+      <mobile>8601551645</mobile>
+      <landline>(7777)-158223</landline>
+    </contact>
+    <email>cbudnkh@tuttocitta.it</email>
+    <address>
+      <permanent>114 Colorado Drive</permanent>
+      <temporary>523 Cambridge Point</temporary>
+    </address>
+    <campus>SRM University(RMP Campus)</campus>
+    <mark>
+      <math>58</math>
+      <dsa>50</dsa>
+      <ct>12</ct>
+      <networks>10</networks>
+    </mark>
+    <sum>130</sum>
+    <hobbies>Swimming</hobbies>
+  </student>
+  <student>
+    <name>
+      <first_name>Elmo</first_name>
+      <middle_name>Kingsnod</middle_name>
+      <last_name>Morston</last_name>
+    </name>
+    <reg_no>RA1999992579234</reg_no>
+    <gender>Female</gender>
+    <contact>
+      <mobile>6552060134</mobile>
+      <landline>(7829)-396904</landline>
+    </contact>
+    <email>emorstoni@epa.gov</email>
+    <address>
+      <permanent>33879 Graceland Trail</permanent>
+      <temporary>7 Merchant Place</temporary>
+    </address>
+    <campus>SRM University(KTR Campus)</campus>
+    <mark>
+      <math>13</math>
+      <dsa>91</dsa>
+      <ct>73</ct>
+      <networks>68</networks>
+    </mark>
+    <sum>245</sum>
+    <hobbies>Cooking</hobbies>
+  </student>
+  <student>
+    <name>
+      <first_name>Ambrosio</first_name>
+      <middle_name>Enocksson</middle_name>
+      <last_name>Frosdick</last_name>
+    </name>
+    <reg_no>RA0674952915976</reg_no>
+    <gender>Female</gender>
+    <contact>
+      <mobile>9662553490</mobile>
+      <landline>(0315)-975685</landline>
+    </contact>
+    <email>afrosdickj@woothemes.com</email>
+    <address>
+      <permanent>6654 Service Hill</permanent>
+      <temporary>921 Susan Hill</temporary>
+    </address>
+    <campus>SRM University(KTR Campus)</campus>
+    <mark>
+      <math>66</math>
+      <dsa>11</dsa>
+      <ct>67</ct>
+      <networks>81</networks>
+    </mark>
+    <sum>225</sum>
+    <hobbies>Reading</hobbies>
+  </student>
+</record>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Queries :
+
+
+1. List of names starting with a particular letter
+                
+record/student[substring(name/first_name,1,1) = 'A']/name
+
+
+2. Topper Information
+
+
+<p>Topper :
+{
+for $x in record/student
+where(max(record/student/sum) = $x/sum)
+        return <br>{$x/name/first_name} {$x/name/last_name} - Marks : {max(record/student/sum)}</br>
+}</p> 
+
+
+
+
+3. Students in SRM RMP University
+
+
+record/student[campus = "SRM University(RMP Campus)"]/name
+
+
+4. Email Format Checking
+                
+                for $x in record/student/email
+return (matches($x,'.*@.*.*'))
+
+
+5. Grouping Students on Hobbies
+                
+                for $x in distinct-values(record/student/hobbies/text())
+return(
+                        for $y in record/student
+                        where($y/hobbies = $x)
+                        return <br>{$y/name/first_name} : {$x}</br>)
+
+
+6. Ranks in Descending Order
+
+
+                 for $y in sort(for $x in record/student/sum return $x)
+        return  for $z in record/student 
+                                where $y = $z/sum
+                              return <br>Name : {$z/name/first_name}
+                                               Marks : {$z/sum}</br>
+         
+                        
+7. Students who belong to CEG Campus and have marks>200
+
+
+                for $x in record/student
+where(($x/sum > 200) and ($x/campus = "Anna University(CEG Campus)"))
+let $name := $x/name
+let $marks := $x/sum
+return <br>{$name/first_name} {$name/last_name} : {$marks}</br>
+
+
+8. Count of students who have overall marks less than 200
+
+
+count(record/student[sum<200])
+
+
+9. People who have a govt email id
+                
+                for $x in record/student
+where matches($x/email,'.*@.*.gov') = true() 
+return(<br>{$x/name/first_name}        {$x/email}</br>)
+
+
+
+
+10. Maximum marks in each Campus
+
+
+                for $x in record
+return(<br>Max Marks in SRM VDP Campus : {max($x/student[campus =
+"SRM University(VDP Campus)"]/sum)}</br>)
+
+
+
+
+
+
+for $y in record
+return(<br>Max Marks in SRM RMP Campus : {max($y/student[campus = 
+"SRM University(RMP Campus)"]/sum)}</br>)
+
+
+
+
+
+
+for $z in record
+return(<br>Max Marks in SRM RMP Campus : {max($z/student[campus = 
+"SRM University(RMP Campus)"]/sum)}</br>)
+
+
+
+
+11. Finding University Topper
+
+
+                for $x in record
+let $rmp:= max($x/student[campus = "SRM University(RMP Campus)"]/sum)
+let $ktr:= max($x/student[campus = "SRM University(KTR Campus)"]/sum)
+let $vdp:= max($x/student[campus = "SRM University(VDP Campus)"]/sum)
+let $rmpname:= $x/student[sum = $rmp]/name/first_name
+let $ktrname:= $x/student[sum = $ktr]/name/first_name
+let $vdpname:= $x/student[sum = $vdp]/name/first_name
+let $max_m := ($rmp,$ktr,$vdp)
+let $univ_t := max($max_m)
+let $topper_name := $x/student[sum = $rmp]/name/first_name
+let $topper_campus := $x/student[sum = $rmp]/campus
+
+
+return(
+<br>
+Max Marks in SRM KTR Campus
+                
+
+
+Name  : {$ktrname} 
+Marks : {$ktr}
+
+
+Max Marks in SRM RMP Campus 
+
+
+Name  : {$rmpname} 
+Marks : {$rmp}
+
+
+Max Marks in SRM VDP Campus
+                
+Name  : {$vdpname} 
+Marks : {$vdp}
+
+
+University Topper :
+
+
+Name   : {$topper_name} 
+Campus : {$topper_campus}
+Marks  : {$univ_t}
+</br>
+
+
+)
+
+
+
+
+
+
+13. Sums of Marks of Student in Anna University Ceg Campus arranged in ascending order
+
+
+                for $y in sort(for $x in record/student[campus = 'Anna University(CEG
+         Campus)']/sum return $x)
+                                return  for $z in record/student 
+                                        where $y = $z/sum
+                                              return <br>Name : {$z/name/first_name}
+                                                                     Marks : {$z/sum}</br>
+
+
+14. Count of students in each campus
+
+
+                for $x in distinct-values(record/student/campus/text())
+return(for $y in record
+                return <br> {$x} --> Number of Students : {count($y/student[campus =
+ $x])}</br>)
+
+
+15. Extracting the domain of the email
+
+
+                for $x in record/student/email
+return 
+if(string-length($x) > 0) then (
+<br>{tokenize($x, '.*@')}</br>
+)
+else
+(<br> ----</br>
+)
+DTD : 
+
+
+<!DOCTYPE record
+[
+<!ELEMENT record(student)>
+<!ELEMENT student (name,reg_no,gender,contact,email,address,campus,mark,sum,hobbies)>
+<!ELEMENT name (first_name,last_name)>
+<!ELEMENT first_name(#PCDATA)>
+<!ELEMENT last_name(#PCDATA)>
+<!ELEMENT reg_no(#PCDATA)>
+<!ELEMENT grnder(#PCDATA)>
+<!ELEMENT contact (mobile,landline)>
+<!ELEMENT mobile(#PCDATA)>
+<!ELEMENT landline(#PCDATA)>
+<!ELEMENT email(#PCDATA)>
+<!ELEMENT address (permanent,temporary)>
+<!ELEMENT permanent(#PCDATA)>
+<!ELEMENT temporary(#PCDATA)>
+<!ELEMENT campus(#PCDATA)>
+<!ELEMENT mark(math,dsa,ct,networks)>
+<!ELEMENT math(#PCDATA)>
+<!ELEMENT dsa(#PCDATA)>
+<!ELEMENT ct(#PCDATA)>
+<!ELEMENT networks(#PCDATA)>
+<!ELEMENT sum(#PCDATA)>
+<!ELEMENT hobbies(#PCDATA)>
+]>
